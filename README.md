@@ -14,6 +14,7 @@
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+|[Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/staircase)|Easy|
 |[Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/plus_minus)|Easy|
 |[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/a_very_big_sum)|Easy|
 |[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/solve_me_first)|Easy|
