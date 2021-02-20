@@ -8,3 +8,11 @@
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/leetcode/java/com/maksnazarenko/defanging_an_ip_address)|Easy|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/leetcode/java/com/maksnazarenko/reverse_integer)|Easy|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/leetcode/java/com/maksnazarenko/two_sum)|Easy|
+
+
+# [HackerRank](https://www.hackerrank.com/)
+
+| Title | Solution | Difficulty |
+| ----- | -------- | ---------- |
+|[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/solve_me_first)|Easy|
+
