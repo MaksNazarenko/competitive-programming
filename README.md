@@ -14,5 +14,6 @@
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+|[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/a_very_big_sum)|Easy|
 |[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/solve_me_first)|Easy|
 
