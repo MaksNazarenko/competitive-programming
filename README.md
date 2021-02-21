@@ -14,6 +14,7 @@
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+|[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/mini_max_sum)|Easy|
 |[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/diagonal_difference)|Easy|
 |[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/compare_the_triplets)|Easy|
 |[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/simple_array_sum)|Easy|
