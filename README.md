@@ -14,6 +14,7 @@
 
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
+|[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/simple_array_sum)|Easy|
 |[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/sales_by_match)|Easy|
 |[Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/staircase)|Easy|
 |[Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/plus_minus)|Easy|
