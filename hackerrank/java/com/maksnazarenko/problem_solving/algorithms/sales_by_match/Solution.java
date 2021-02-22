@@ -1,12 +1,7 @@
-package com.maksnazarenko.sales_by_match;
+package com.maksnazarenko.problem_solving.algorithms.sales_by_match;
 
 import java.io.*;
-import java.math.*;
-import java.security.*;
-import java.text.*;
 import java.util.*;
-import java.util.concurrent.*;
-import java.util.regex.*;
 
 public class Solution {
 

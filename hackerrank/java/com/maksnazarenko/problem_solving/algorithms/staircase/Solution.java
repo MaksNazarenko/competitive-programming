@@ -1,12 +1,6 @@
-package com.maksnazarenko.staircase;
+package com.maksnazarenko.problem_solving.algorithms.staircase;
 
-import java.io.*;
-import java.math.*;
-import java.security.*;
-import java.text.*;
 import java.util.*;
-import java.util.concurrent.*;
-import java.util.regex.*;
 
 public class Solution {
 

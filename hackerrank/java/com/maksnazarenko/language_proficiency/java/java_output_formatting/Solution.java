@@ -1,4 +1,4 @@
-package com.maksnazarenko.java_output_formatting;
+package com.maksnazarenko.language_proficiency.java.java_output_formatting;
 
 import java.util.Scanner;
 

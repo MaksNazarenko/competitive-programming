@@ -1,10 +1,7 @@
-package com.maksnazarenko.time_conversion;
+package com.maksnazarenko.problem_solving.algorithms.time_conversion;
 
 import java.io.*;
-import java.math.*;
-import java.text.*;
 import java.util.*;
-import java.util.regex.*;
 
 public class Solution {
 

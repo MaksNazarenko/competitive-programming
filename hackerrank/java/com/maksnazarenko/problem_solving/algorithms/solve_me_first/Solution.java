@@ -1,10 +1,6 @@
-package com.maksnazarenko.solve_me_first;
+package com.maksnazarenko.problem_solving.algorithms.solve_me_first;
 
-import java.io.*;
 import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
 
 public class Solution {
 
