@@ -27,6 +27,7 @@
 |[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/problem_solving/algorithms/a_very_big_sum)|Problem Solving: Algorithms|Easy|
 |[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/problem_solving/algorithms/solve_me_first)|Problem Solving: Algorithms|Easy|
 |-|-|-|-|
+|[Java Hashset](https://www.hackerrank.com/challenges/java-hashset/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/language_proficiency/java/java_hashset)|Language: Java|Easy|
 |[Java Stack](https://www.hackerrank.com/challenges/java-stack/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/language_proficiency/java/java_stack)|Language: Java|Medium|
 |[Java Map](https://www.hackerrank.com/challenges/phone-book/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/language_proficiency/java/phone_book)|Language: Java|Easy|
 |[Java List](https://www.hackerrank.com/challenges/java-list/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/language_proficiency/java/java_list)|Language: Java|Easy|
