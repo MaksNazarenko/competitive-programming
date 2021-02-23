@@ -27,6 +27,7 @@
 |[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/problem_solving/algorithms/a_very_big_sum)|Problem Solving: Algorithms|Easy|
 |[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/problem_solving/algorithms/solve_me_first)|Problem Solving: Algorithms|Easy|
 |-|-|-|-|
+|[Java Method Overriding](https://www.hackerrank.com/challenges/java-method-overriding/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/language_proficiency/java/java_method_overriding)|Language: Java|Easy|
 |[Java BitSet](https://www.hackerrank.com/challenges/java-bitset/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/language_proficiency/java/java_bitset)|Language: Java|Easy|
 |[Java Sort](https://www.hackerrank.com/challenges/java-sort/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/language_proficiency/java/java_sort)|Language: Java|Easy|
 |[Java Comparator](https://www.hackerrank.com/challenges/java-comparator/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/language_proficiency/java/java_comparator)|Language: Java|Medium|
