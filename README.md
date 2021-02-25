@@ -29,6 +29,7 @@
 # [HackerRank](https://www.hackerrank.com/): [Java](https://www.hackerrank.com/domains/java)
 |Subdomain| Title | Solution | Difficulty |
 |---------| ----- | -------- | ---------- |
+|Advanced|[Java SHA-256](https://www.hackerrank.com/challenges/sha-256/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/language_proficiency/java/sha_256)|Medium|
 |Advanced|[Java MD5](https://www.hackerrank.com/challenges/java-md5/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/language_proficiency/java/java_md5)|Medium|
 |Advanced|[Java Lambda Expressions](https://www.hackerrank.com/challenges/java-lambda-expressions/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/language_proficiency/java/java_lambda_expressions)|Medium|
 |Advanced|[Covariant Return Types](https://www.hackerrank.com/challenges/java-covariance/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/language_proficiency/java/java_covariance)|Easy|
