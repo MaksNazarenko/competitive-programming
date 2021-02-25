@@ -29,6 +29,7 @@
 # [HackerRank](https://www.hackerrank.com/): [Java](https://www.hackerrank.com/domains/java)
 |Subdomain| Title | Solution | Difficulty |
 |---------| ----- | -------- | ---------- |
+|Advanced|[Java Annotations](https://www.hackerrank.com/challenges/java-annotations/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/language_proficiency/java/java_annotations)|Medium|
 |Advanced|[Java Visitor Pattern](https://www.hackerrank.com/challenges/java-vistor-pattern/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/language_proficiency/java/java_vistor_pattern)|Medium|
 |Advanced|[Java Singleton Pattern](https://www.hackerrank.com/challenges/java-singleton/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/language_proficiency/java/java_singleton)|Easy|
 |Advanced|[Java Factory Pattern](https://www.hackerrank.com/challenges/java-factory/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/language_proficiency/java/java_factory)|Easy|
