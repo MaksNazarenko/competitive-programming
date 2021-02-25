@@ -29,6 +29,7 @@
 # [HackerRank](https://www.hackerrank.com/): [Java](https://www.hackerrank.com/domains/java)
 |Subdomain| Title | Solution | Difficulty |
 |---------| ----- | -------- | ---------- |
+|Advanced|[Prime Checker](https://www.hackerrank.com/challenges/prime-checker/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/language_proficiency/java/prime_checker)|Medium|
 |Advanced|[Can You Access?](https://www.hackerrank.com/challenges/can-you-access/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/language_proficiency/java/can_you_access)|Easy|
 |Advanced|[Java Reflection - Attributes](https://www.hackerrank.com/challenges/java-reflection-attributes/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/language_proficiency/java/java_reflection_attributes)|Easy|
 |Advanced|[Java Varargs - Simple Addition](https://www.hackerrank.com/challenges/simple-addition-varargs/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/language_proficiency/java/simple_addition_varargs)|Easy|
