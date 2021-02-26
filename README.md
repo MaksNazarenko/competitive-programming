@@ -5,7 +5,6 @@
 - [**HackerRank: _30 Days of Code_**](  https://github.com/MaksNazarenko/competitive-programming#hackerrank-30-days-of-code)
 
 # [LeetCode](https://leetcode.com/)
-
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1748|[Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/leetcode/java/com/maksnazarenko/sum_of_unique_elements)|Easy|
@@ -19,18 +18,18 @@
 # [HackerRank](https://www.hackerrank.com/): [Algorithms](https://www.hackerrank.com/domains/algorithms)
 |Subdomain| Title | Solution |Difficulty |
 |---------| ----- | -------- |---------- |
-|Implementation|[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/problem_solving/algorithms/sales_by_match)|Easy|
-|Implementation|[Grading Students](https://www.hackerrank.com/challenges/grading/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/problem_solving/algorithms/grading)|Easy|
-|Warmup|[Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/problem_solving/algorithms/time_conversion)|Easy|
-|Warmup|[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/problem_solving/algorithms/birthday_cake_candles)|Easy|
-|Warmup|[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/problem_solving/algorithms/mini_max_sum)|Easy|
-|Warmup|[Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/problem_solving/algorithms/staircase)|Easy|
-|Warmup|[Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/problem_solving/algorithms/plus_minus)|Easy|
-|Warmup|[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/problem_solving/algorithms/diagonal_difference)|Easy|
-|Warmup|[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/problem_solving/algorithms/a_very_big_sum)|Easy|
-|Warmup|[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/problem_solving/algorithms/compare_the_triplets)|Easy|
-|Warmup|[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/problem_solving/algorithms/simple_array_sum)|Easy|
-|Warmup|[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/problem_solving/algorithms/solve_me_first), [C++](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/problem_solving/algorithms/solve_me_first)|Easy|
+|Implementation|[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/code/com/maksnazarenko/problem_solving/algorithms/java/sales_by_match)|Easy|
+|Implementation|[Grading Students](https://www.hackerrank.com/challenges/grading/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/problem_solving/algorithms/java/grading)|Easy|
+|Warmup|[Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/problem_solving/algorithms/java/time_conversion)|Easy|
+|Warmup|[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/problem_solving/algorithms/java/birthday_cake_candles)|Easy|
+|Warmup|[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/problem_solving/algorithms/java/mini_max_sum)|Easy|
+|Warmup|[Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/problem_solving/algorithms/java/staircase)|Easy|
+|Warmup|[Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/problem_solving/algorithms/java/plus_minus)|Easy|
+|Warmup|[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/problem_solving/algorithms/java/diagonal_difference)|Easy|
+|Warmup|[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/problem_solving/algorithms/java/a_very_big_sum)|Easy|
+|Warmup|[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/problem_solving/algorithms/java/compare_the_triplets)|Easy|
+|Warmup|[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/problem_solving/algorithms/java/simple_array_sum)|Easy|
+|Warmup|[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/problem_solving/algorithms/java/solve_me_first), [C++](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/problem_solving/algorithms/cpp/solve_me_first)|Easy|
 
 # [HackerRank](https://www.hackerrank.com/): [Java](https://www.hackerrank.com/domains/java)
 |Subdomain| Title | Solution | Difficulty |
