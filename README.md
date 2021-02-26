@@ -30,7 +30,7 @@
 |Warmup|[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/problem_solving/algorithms/a_very_big_sum)|Easy|
 |Warmup|[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/problem_solving/algorithms/compare_the_triplets)|Easy|
 |Warmup|[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/problem_solving/algorithms/simple_array_sum)|Easy|
-|Warmup|[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/problem_solving/algorithms/solve_me_first)|Easy|
+|Warmup|[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/problem_solving/algorithms/solve_me_first) [C++](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/problem_solving/algorithms/solve_me_first)|Easy|
 
 # [HackerRank](https://www.hackerrank.com/): [Java](https://www.hackerrank.com/domains/java)
 |Subdomain| Title | Solution | Difficulty |
@@ -95,6 +95,11 @@
 |Introduction|[Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/language_proficiency/java/java_loops)|Easy|
 |Introduction|[Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/language_proficiency/java/java_loops_i)|Easy|
 |Introduction|[Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/language_proficiency/java/java_output_formatting)|Easy|
+
+# [HackerRank](https://www.hackerrank.com/): [C++](https://www.hackerrank.com/domains/cpp)
+|Subdomain| Title | Solution | Difficulty |
+|---------| ----- | -------- | ---------- |
+|Introduction|[Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem) | [C](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/cpp/cpp_hello_world)|Easy|
 
 # [HackerRank](https://www.hackerrank.com/): [C](https://www.hackerrank.com/domains/c)
 |Subdomain| Title | Solution | Difficulty |
