@@ -97,6 +97,7 @@
 # [HackerRank](https://www.hackerrank.com/): [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 | Title | Solution | 
 | ----- | -------- | 
+|[Day 5: Loops](https://www.hackerrank.com/challenges/30-loops/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/_30_days_of_code/day_5/)|
 |[Day 4: Class vs. Instance](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/_30_days_of_code/day_4/)|
 |[Day 3: Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/_30_days_of_code/day_3/)|
 |[Day 2: Operators](https://www.hackerrank.com/challenges/30-operators/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/_30_days_of_code/day_2/)|
