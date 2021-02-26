@@ -1,3 +1,7 @@
+- [**LeetCode**](https://github.com/MaksNazarenko/competitive-programming#leetcode)
+- [**HackerRank: _Algorithms_**](https://github.com/MaksNazarenko/competitive-programming#hackerrank-algorithms)
+- [**HackerRank: _Java_**](https://github.com/MaksNazarenko/competitive-programming#hackerrank-java)
+
 # [LeetCode](https://leetcode.com/)
 
 | # | Title | Solution | Difficulty |
