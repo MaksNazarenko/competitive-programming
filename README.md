@@ -99,6 +99,7 @@
 # [HackerRank](https://www.hackerrank.com/): [C](https://www.hackerrank.com/domains/c)
 |Subdomain| Title | Solution | Difficulty |
 |---------| ----- | -------- | ---------- |
+|Introduction|[Sum and Difference of Two Numbers](https://www.hackerrank.com/challenges/sum-numbers-c/problem) | [C](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/c/sum_numbers_c)|Easy|
 |Introduction|["Hello World!" in C](https://www.hackerrank.com/challenges/hello-world-c/problem) | [C](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/c/hello_world_c)|Easy|
 
 # [HackerRank](https://www.hackerrank.com/): [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
