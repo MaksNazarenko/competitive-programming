@@ -1,6 +1,7 @@
 - [**LeetCode**](https://github.com/MaksNazarenko/competitive-programming#leetcode)
 - [**HackerRank: _Algorithms_**](https://github.com/MaksNazarenko/competitive-programming#hackerrank-algorithms)
 - [**HackerRank: _Java_**](https://github.com/MaksNazarenko/competitive-programming#hackerrank-java)
+- [**HackerRank: _C_**](https://github.com/MaksNazarenko/competitive-programming#hackerrank-c)
 - [**HackerRank: _30 Days of Code_**](  https://github.com/MaksNazarenko/competitive-programming#hackerrank-30-days-of-code)
 
 # [LeetCode](https://leetcode.com/)
@@ -98,7 +99,7 @@
 # [HackerRank](https://www.hackerrank.com/): [C](https://www.hackerrank.com/domains/c)
 |Subdomain| Title | Solution | Difficulty |
 |---------| ----- | -------- | ---------- |
-|Introduction|["Hello World!" in C](https://www.hackerrank.com/challenges/hello-world-c/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/c/hello_world_c)|Easy|
+|Introduction|["Hello World!" in C](https://www.hackerrank.com/challenges/hello-world-c/problem) | [C](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/c/hello_world_c)|Easy|
 
 # [HackerRank](https://www.hackerrank.com/): [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 | Title | Solution | 
