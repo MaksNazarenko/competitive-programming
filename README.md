@@ -95,6 +95,11 @@
 |Introduction|[Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/language_proficiency/java/java_loops_i)|Easy|
 |Introduction|[Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/language_proficiency/java/java_output_formatting)|Easy|
 
+# [HackerRank](https://www.hackerrank.com/): [C](https://www.hackerrank.com/domains/c)
+|Subdomain| Title | Solution | Difficulty |
+|---------| ----- | -------- | ---------- |
+|Introduction|["Hello World!" in C](https://www.hackerrank.com/challenges/hello-world-c/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/c/hello_world_c)|Easy|
+
 # [HackerRank](https://www.hackerrank.com/): [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 | Title | Solution | 
 | ----- | -------- | 
