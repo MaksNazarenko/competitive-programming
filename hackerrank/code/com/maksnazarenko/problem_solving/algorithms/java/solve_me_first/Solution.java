@@ -1,4 +1,4 @@
-package com.maksnazarenko.problem_solving.algorithms.solve_me_first;
+package com.maksnazarenko.problem_solving.algorithms.java.solve_me_first;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package com.maksnazarenko.problem_solving.algorithms.mini_max_sum;
+package com.maksnazarenko.problem_solving.algorithms.java.mini_max_sum;
 
 import java.util.*;
 

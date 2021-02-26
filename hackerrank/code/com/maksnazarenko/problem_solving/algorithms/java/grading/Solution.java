@@ -1,4 +1,4 @@
-package com.maksnazarenko.problem_solving.algorithms.grading;
+package com.maksnazarenko.problem_solving.algorithms.java.grading;
 
 import java.io.*;
 import java.util.*;

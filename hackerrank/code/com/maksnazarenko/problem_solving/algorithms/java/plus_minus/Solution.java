@@ -1,4 +1,4 @@
-package com.maksnazarenko.problem_solving.algorithms.plus_minus;
+package com.maksnazarenko.problem_solving.algorithms.java.plus_minus;
 
 import java.util.*;
 

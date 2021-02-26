@@ -1,4 +1,4 @@
-package com.maksnazarenko.problem_solving.algorithms.simple_array_sum;
+package com.maksnazarenko.problem_solving.algorithms.java.simple_array_sum;
 
 import java.io.*;
 import java.util.*;

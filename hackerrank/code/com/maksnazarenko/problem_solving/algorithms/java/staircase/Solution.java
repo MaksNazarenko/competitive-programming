@@ -1,4 +1,4 @@
-package com.maksnazarenko.problem_solving.algorithms.staircase;
+package com.maksnazarenko.problem_solving.algorithms.java.staircase;
 
 import java.util.*;
 

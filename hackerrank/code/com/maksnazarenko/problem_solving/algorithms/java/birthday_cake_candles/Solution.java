@@ -1,4 +1,4 @@
-package com.maksnazarenko.problem_solving.algorithms.birthday_cake_candles;
+package com.maksnazarenko.problem_solving.algorithms.java.birthday_cake_candles;
 
 import java.io.*;
 import java.util.*;

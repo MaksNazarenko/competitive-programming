@@ -1,4 +1,4 @@
-package com.maksnazarenko.problem_solving.algorithms.diagonal_difference;
+package com.maksnazarenko.problem_solving.algorithms.java.diagonal_difference;
 
 import java.io.*;
 import java.util.*;

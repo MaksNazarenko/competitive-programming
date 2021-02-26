@@ -1,4 +1,4 @@
-package com.maksnazarenko.problem_solving.algorithms.compare_the_triplets;
+package com.maksnazarenko.problem_solving.algorithms.java.compare_the_triplets;
 
 import java.io.*;
 import java.util.*;

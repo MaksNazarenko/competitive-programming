@@ -1,4 +1,4 @@
-package com.maksnazarenko.problem_solving.algorithms.time_conversion;
+package com.maksnazarenko.problem_solving.algorithms.java.time_conversion;
 
 import java.io.*;
 import java.util.*;

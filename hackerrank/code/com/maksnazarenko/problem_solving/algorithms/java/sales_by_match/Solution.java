@@ -1,15 +1,19 @@
-package com.maksnazarenko.problem_solving.algorithms.a_very_big_sum;
+package com.maksnazarenko.problem_solving.algorithms.java.sales_by_match;
 
 import java.io.*;
 import java.util.*;
 
 public class Solution {
 
-    // Complete the aVeryBigSum function below.
-    static long aVeryBigSum(long[] ar) {
-        long ans = 0;
-        for (long num : ar) {
-            ans += num;
+    // Complete the sockMerchant function below.
+    static int sockMerchant(int n, int[] ar) {
+        int[] pairs = new int[101];
+        int ans = 0;
+        for (int i = 0; i < ar.length; i++) {
+            pairs[ar[i]]++;
+        }
+        for (int i = 0; i < pairs.length; i++) {
+            ans += pairs[i] / 2;
         }
         return ans;
     }
@@ -19,20 +23,20 @@ public class Solution {
     public static void main(String[] args) throws IOException {
         BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
 
-        int arCount = scanner.nextInt();
+        int n = scanner.nextInt();
         scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
 
-        long[] ar = new long[arCount];
+        int[] ar = new int[n];
 
         String[] arItems = scanner.nextLine().split(" ");
         scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
 
-        for (int i = 0; i < arCount; i++) {
-            long arItem = Long.parseLong(arItems[i]);
+        for (int i = 0; i < n; i++) {
+            int arItem = Integer.parseInt(arItems[i]);
             ar[i] = arItem;
         }
 
-        long result = aVeryBigSum(ar);
+        int result = sockMerchant(n, ar);
 
         bufferedWriter.write(String.valueOf(result));
         bufferedWriter.newLine();
