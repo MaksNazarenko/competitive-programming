@@ -97,4 +97,5 @@
 # [HackerRank](https://www.hackerrank.com/): [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 | Title | Solution | 
 | ----- | -------- | 
-|[Day 0: Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/_30_days_of_code/day_0/)|
+|[Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/_30_days_of_code/day_1/)|
+|[Day 0: Hello, World](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/_30_days_of_code/day_0/)|
