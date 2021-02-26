@@ -98,22 +98,22 @@
 # [HackerRank](https://www.hackerrank.com/): [C++](https://www.hackerrank.com/domains/cpp)
 |Subdomain| Title | Solution | Difficulty |
 |---------| ----- | -------- | ---------- |
-|Introduction|[Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem) | [C](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/cpp/cpp_hello_world)|Easy|
+|Introduction|[Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem) | [C++](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/code/com/maksnazarenko/language_proficiency/cpp/cpp_hello_world)|Easy|
 
 # [HackerRank](https://www.hackerrank.com/): [C](https://www.hackerrank.com/domains/c)
 |Subdomain| Title | Solution | Difficulty |
 |---------| ----- | -------- | ---------- |
-|Introduction|[Playing With Characters](https://www.hackerrank.com/challenges/playing-with-characters/problem) | [C](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/c/playing_with_characters)|Easy|
-|Introduction|[Sum and Difference of Two Numbers](https://www.hackerrank.com/challenges/sum-numbers-c/problem) | [C](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/c/sum_numbers_c)|Easy|
-|Introduction|["Hello World!" in C](https://www.hackerrank.com/challenges/hello-world-c/problem) | [C](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/c/hello_world_c)|Easy|
+|Introduction|[Playing With Characters](https://www.hackerrank.com/challenges/playing-with-characters/problem) | [C](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/code/com/maksnazarenko/language_proficiency/c/playing_with_characters)|Easy|
+|Introduction|[Sum and Difference of Two Numbers](https://www.hackerrank.com/challenges/sum-numbers-c/problem) | [C](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/code/com/maksnazarenko/language_proficiency/c/sum_numbers_c)|Easy|
+|Introduction|["Hello World!" in C](https://www.hackerrank.com/challenges/hello-world-c/problem) | [C](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/code/com/maksnazarenko/language_proficiency/c/hello_world_c)|Easy|
 
 # [HackerRank](https://www.hackerrank.com/): [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 | Title | Solution | 
 | ----- | -------- | 
-|[Day 6: Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/_30_days_of_code/day_6/)|
-|[Day 5: Loops](https://www.hackerrank.com/challenges/30-loops/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/_30_days_of_code/day_5/)|
-|[Day 4: Class vs. Instance](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/_30_days_of_code/day_4/)|
-|[Day 3: Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/_30_days_of_code/day_3/)|
-|[Day 2: Operators](https://www.hackerrank.com/challenges/30-operators/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/_30_days_of_code/day_2/)|
-|[Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/_30_days_of_code/day_1/)|
-|[Day 0: Hello, World](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/java/com/maksnazarenko/_30_days_of_code/day_0/)|
+|[Day 6: Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/code/com/maksnazarenko/_30_days_of_code/day_6/)|
+|[Day 5: Loops](https://www.hackerrank.com/challenges/30-loops/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/code/com/maksnazarenko/_30_days_of_code/day_5/)|
+|[Day 4: Class vs. Instance](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/code/com/maksnazarenko/_30_days_of_code/day_4/)|
+|[Day 3: Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/code/com/maksnazarenko/_30_days_of_code/day_3/)|
+|[Day 2: Operators](https://www.hackerrank.com/challenges/30-operators/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/code/com/maksnazarenko/_30_days_of_code/day_2/)|
+|[Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/code/com/maksnazarenko/_30_days_of_code/day_1/)|
+|[Day 0: Hello, World](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/code/com/maksnazarenko/_30_days_of_code/day_0/)|
