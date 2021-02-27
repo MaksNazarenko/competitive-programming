@@ -114,6 +114,7 @@
 # [HackerRank](https://www.hackerrank.com/): [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 | Title | Solution | 
 | ----- | -------- | 
+|[Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/code/com/maksnazarenko/_30_days_of_code/day_7/)|
 |[Day 6: Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/code/com/maksnazarenko/_30_days_of_code/day_6/)|
 |[Day 5: Loops](https://www.hackerrank.com/challenges/30-loops/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/code/com/maksnazarenko/_30_days_of_code/day_5/)|
 |[Day 4: Class vs. Instance](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Java](https://github.com/MaksNazarenko/competitive-programming/tree/master/hackerrank/code/com/maksnazarenko/_30_days_of_code/day_4/)|
